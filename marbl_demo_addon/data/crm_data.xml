@@ -2,15 +2,15 @@
 <odoo>
     <data noupdate="1">
         <!--  Demo Leads -->
-        <record id="res.partner_1 model="res.partner">	
+    <record id="res.partner_1 model="res.partner">	
 	
 	
-	        <field name="name">Vitens</field>
-	        <field name="Street">Groningensingel 1</field>
-	        <field name="zip">6835 EA </field>
-	        <field name="city">Arnhem</field>
-	        <field name="county">Nederland</field>
+        <field name="name">Vitens</field>
+	<field name="Street">Groningensingel 1</field>
+        <field name="zip">6835 EA </field>
+	<field name="city">Arnhem</field>
+	<field name="county">Nederland</field>
 	
-        </record>	
+    </record>	
     </data>
 </odoo>
