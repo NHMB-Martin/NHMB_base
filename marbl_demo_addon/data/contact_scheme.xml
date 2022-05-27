@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<contact xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-    <record>
-       <Naam>data</Naam>
-       <Postcode>data</Postcode>
-       <Plaats>data</Plaats>
-    </record>
-</contact>
