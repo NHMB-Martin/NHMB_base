@@ -9,7 +9,7 @@
 	<field name="Street">Groningensingel 1</field>
         <field name="zip">6835 EA </field>
 	<field name="city">Arnhem</field>
-	<field name="county">Nederland</field>
+	<field name="country_id">base.nl</field>
 	
     </record>	
     </data>
